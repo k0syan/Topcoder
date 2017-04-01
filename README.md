@@ -4,4 +4,4 @@
 <br>
 
 ### Practice Problems
-- [Genetics](https://github.com/kantuni/Topcoder/tree/master/Genetics)
+- [Genetics](https://github.com/kantuni/Topcoder/tree/master/Genetics) - **Accepted**
