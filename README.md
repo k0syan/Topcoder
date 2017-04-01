@@ -7,3 +7,4 @@
 - [Genetics](https://github.com/kantuni/Topcoder/tree/master/Genetics) - **Accepted**
 
 ### TCO Algorithm 2017 Round 1A - `1/3`
+- **[PingPongQueue](https://github.com/kantuni/Topcoder/tree/master/PingPongQueue)** - **Accepted**
