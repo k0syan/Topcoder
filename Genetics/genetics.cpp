@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <locale>
+
 using namespace std;
 
 class Genetics {
