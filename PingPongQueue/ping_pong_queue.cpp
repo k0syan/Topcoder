@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <deque>
+
 using namespace std;
 
 struct Player {
@@ -37,7 +38,6 @@ class PingPongQueue {
         
         if (first.skill > second.skill) {
           // first is the winner
-          
           // reset victories
           second.victories = 0;
           q.push_back(second);
@@ -52,7 +52,6 @@ class PingPongQueue {
           }
         } else {
           // second is the winner
-          
           // reset victories
           first.victories = 0;
           q.push_back(first);
